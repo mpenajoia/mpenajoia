@@ -1,11 +1,13 @@
-### What's up
+### What's up everyone 👋
 
-Used to work on movies, then built custom motorcycles, now front end developer. 
+I used to work on movies, then built custom motorcycles, now front end developer. 
 
 - 🔧 React | Javascript | HTML5 |CSS3
 - 💬 fascinated about anything web3 | crypto | defi | blockcahin | NFT | DAO related
 - 🏎️ Formula 1 Fan
 - 🇵🇹 🇹
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mpenajoia/)
 
 <!--
 **mpenajoia/mpenajoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
