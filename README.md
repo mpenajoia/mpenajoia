@@ -1,6 +1,6 @@
 ### What's up everyone 👋
 
-I used to work on movies, then built custom motorcycles, now front end developer. 
+I used to work on movies, then built custom motorcycles, now I'm a front end developer. 
 
 - 🔧 React | Javascript | HTML5 |CSS3
 - 💬 fascinated about anything web3 | crypto | defi | blockcahin | NFT | DAO related
