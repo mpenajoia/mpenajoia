@@ -1,4 +1,11 @@
-### Hi there 👋
+### What's up
+
+Used to work on movies, then built custom motorcycles, now front end developer. 
+
+- 🔧 React | Javascript | HTML5 |CSS3
+- 💬 fascinated about anything web3 | crypto | defi | blockcahin | NFT | DAO related
+- 🏎️ Formula 1 Fan
+- 🇵🇹 🇹
 
 <!--
 **mpenajoia/mpenajoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
