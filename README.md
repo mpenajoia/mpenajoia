@@ -3,7 +3,7 @@
 I used to work on movies, then built custom motorcycles, now I'm a front end developer. 
 
 - 🔧 React | Javascript | HTML5 | CSS3
-- 💬 fascinated about anything web3 | crypto | defi | blockcahin | NFT | DAO related
+- 💬 fascinated about anything web3 | crypto | DeFi | blockchain | NFT | DAO related
 - 🏎️ Formula 1 Fan
 - 🇵🇹 🇹
 
