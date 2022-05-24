@@ -3,9 +3,9 @@
 I used to work on movies, then built custom motorcycles, now I'm a front end developer. 
 
 - 🔧 React | Javascript | HTML5 | CSS3
-- 💬 fascinated about anything web3 | crypto | DeFi | blockchain | NFT | DAO related
+- 💬 Fascinated about anything web3 | crypto | DeFi | blockchain | NFT | DAO related
 - 🏎️ Formula 1 Fan
-- 🇵🇹 🇹
+- 🇵🇹 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mpenajoia/)
 
