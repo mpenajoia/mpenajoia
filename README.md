@@ -1,6 +1,6 @@
 ### What's up everyone 👋
 
-I used to work on movies, then built custom motorcycles, now I'm a front end developer. 
+I used to work on [movies](https://www.imdb.com/name/nm5320617/?ref_=tt_cl_dr_1), then built [custom motorcycles](https://marcopenajoia.com/), now I'm a [front end developer](https://penajoia.com/). 
 
 - 🔧 React | Javascript | HTML5 | CSS3
 - 💬 Fascinated about anything web3 | crypto | DeFi | blockchain | NFT | DAO related
